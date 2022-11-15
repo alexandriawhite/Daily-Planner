@@ -6,6 +6,7 @@
 * Acceptance Criteria
 * Screenshot
 * License
+* Credit
 * Links
 * Notes
 
@@ -37,14 +38,16 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-# Screenshot  
+## Screenshot  
 ![demo](./assets/images/display.PNG)
 
-# License
-
+## License
 * MIT License
 
-# Links
+## Credit
+* Upload image from: https://pngtree.com/free-png-vectors/upload-icon
+
+## Links
 * URL of GitHub Repository: https://github.com/alexandriawhite/Daily-Planner
 * URL of deployed application: https://alexandriawhite.github.io/Daily-Planner/
 
