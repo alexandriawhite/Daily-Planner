@@ -37,9 +37,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-
 # Screenshot  
-![title](./assets/)
+![demo](./assets/images/display.PNG)
 
 # License
 
@@ -50,4 +49,5 @@ THEN the saved events persist
 * URL of deployed application: https://alexandriawhite.github.io/Daily-Planner/
 
 ## 📝 Notes
-*
+* Momentjs is outdated and not maintained
+* Dayjs is used in its place
