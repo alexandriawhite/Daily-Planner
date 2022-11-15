@@ -54,3 +54,4 @@ THEN the saved events persist
 ## 📝 Notes
 * Momentjs is outdated and not maintained
 * Dayjs is used in its place
+* If using after hours (schedule is grayed out), you may want to trick your computer by changing local time or checking back during business hours. 
